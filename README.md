@@ -56,7 +56,7 @@ A data analysis project using the **Haberman’s Survival Dataset**, focused on 
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository:
    ```bash
